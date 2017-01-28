@@ -22,7 +22,7 @@ A small node module to find postal code of different area in Dhaka division
 ### Second parameter = "Thana"
 ### third parameter  = "Sub office"
 
-Data get from https://en.wikipedia.org/wiki/List_of_postal_codes_in_Bangladesh
+####Data get from https://en.wikipedia.org/wiki/List_of_postal_codes_in_Bangladesh
 ===============================================================================
 
 ## Release History
