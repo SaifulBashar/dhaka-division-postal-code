@@ -28,4 +28,5 @@ A small node module to find postal code of different area in Dhaka division
 ## Release History
 
 * 1.0.0 is initial release only dhaka division 
+* 1.0.2 replace some data. "Jahangirnagar Univer" is corrected to "Jahangirnagar University" and "kapashia" is corrected to       "Kapashia"
 
