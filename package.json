@@ -1,6 +1,6 @@
 {
   "name": "dhaka-division-post-code",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Get different area post code in Dhaka Division",
   "main": "src/index.js",
   "scripts": {
