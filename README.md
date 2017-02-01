@@ -16,7 +16,7 @@ A small node module to find postal code of different area in Dhaka division
   
   var postCode = app.info("Netrakona","Kalmakanda","Kalmakanda");
   
-  console.log(postCode);
+  console.log(postCode); //2430
 ```
 #### First parameter  = "District"
 #### Second parameter = "Thana"
@@ -47,5 +47,5 @@ A small node module to find postal code of different area in Dhaka division
 ## Release History
 
 * 1.0.0 is initial release only dhaka division 
-* 2.0.0 2nd major release it has "postCode" function which take parameter of post code and return json
+* 2.0.0 second major release it has "postCode" function which take parameter of post code and return json
 
